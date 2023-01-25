@@ -1,0 +1,5 @@
+
+Model: Mercedes Benz - Entered Time: 9:45PM - Duration: 4.5
+Model: Audi A4 - Entered Time: 10:10PM - Duration: 5.5
+Model: Mercedes Benz - Entered Time: 11:45PM - Duration: 4.0
+Model: Ford Fusion - Entered Time: 11:08PM - Duration: 9.0
